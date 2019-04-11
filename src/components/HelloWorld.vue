@@ -3,6 +3,7 @@
     <h1>{{ msg }}</h1>
     <!--<p>{{name}}</p>-->
     <router-link to="/weather">weather</router-link>
+    <router-link to="/university">university</router-link>
     <h2>Essential Links</h2>
   </div>
 </template>
