@@ -1,8 +1,14 @@
+
 # vue-weather
 
-> A Vue.js project
+## 仕様
+### ローマ字で都道府県名を入力すると、その地域の天気、気温を教えてくれる。
 
-## Build Setup
+## 使った技術
+- Vue.js
+- Vue CLI
+
+## セットアップ
 
 ``` bash
 # install dependencies
@@ -17,5 +23,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
